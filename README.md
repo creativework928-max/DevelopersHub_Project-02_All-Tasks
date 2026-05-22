@@ -189,7 +189,9 @@ Develop an interactive dashboard for sales and profit analysis.
 └── README.md
 ```
 
-##📊 Machine Learning Concepts Covered
+---
+
+## 📊 Machine Learning Concepts Covered
 Supervised Learning
 Unsupervised Learning
 Classification Algorithms
@@ -201,7 +203,7 @@ Model Evaluation
 Business Optimization
 Interactive Visualization
 
-##📌 Tools & Libraries
+## 📌 Tools & Libraries
 Category	Tools/Libraries
 Programming	Python
 Data Processing	Pandas, NumPy
@@ -211,7 +213,7 @@ Time Series	Prophet, Statsmodels
 Explainable AI	SHAP, LIME
 Dashboard	Streamlit
 
-##📈 Key Outcomes
+## 📈 Key Outcomes
 
 ✔ Developed real-world machine learning solutions
 ✔ Applied explainable AI techniques for transparency
@@ -219,7 +221,7 @@ Dashboard	Streamlit
 ✔ Performed customer segmentation for marketing insights
 ✔ Created interactive BI dashboards for analytics
 
-##🌟 Why This Repository?
+## 🌟 Why This Repository?
 
 This repository showcases practical applications of Data Science and Machine Learning in:
 
@@ -231,7 +233,7 @@ Risk Management
 
 It is designed to demonstrate industry-level project implementation and analytical problem-solving skills.
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 - Deploy models using Flask/FastAPI
 - Cloud deployment on AWS/Render
 - Real-time dashboard integration
@@ -239,16 +241,19 @@ It is designed to demonstrate industry-level project implementation and analytic
 - Automated ML pipelines
 
 
-#👨‍💻 Author
+# 👨‍💻 Author
 **Muhammad Ali Amir**
 
 Data Science | Machine Learning | Business Analytics Enthusiast
 
 Connect With Me
+```
 LinkedIn: https://www.linkedin.com/in/muhammad-ali-amir-9ab288311
 GitHub: https://github.com/creativework928-max
+```
 
+---
 
-##⭐ Support
+## ⭐ Support
 
 If you found this repository useful, please consider giving it a ⭐ on GitHub to support the project and future updates.

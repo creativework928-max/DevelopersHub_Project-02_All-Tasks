@@ -187,7 +187,7 @@ Develop an interactive dashboard for sales and profit analysis.
 ├── notebooks/
 ├── requirements.txt
 └── README.md
-
+```bash
 ##📊 Machine Learning Concepts Covered
 Supervised Learning
 Unsupervised Learning
